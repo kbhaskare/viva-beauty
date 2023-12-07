@@ -9,7 +9,6 @@
 	<groupId>com.sun</groupId>
 	<artifactId>viva-boot-war</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>Viva Beauty Shop</name>
 
 	<properties>
